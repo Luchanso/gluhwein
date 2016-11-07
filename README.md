@@ -1,20 +1,15 @@
-# Luchanso Starter Kit
+# gluhwein
 
-On board:
-* Gulp
-* ES6
-* Babel
-* Phaser
+Music visualizer with AudioApi and Phaser
 
 Install:
 ```sh
-git clone https://github.com/Luchanso/starter-kit.git
-cd starter-kit
+git clone https://github.com/Luchanso/gluhwein.git
+cd gluhwein
 npm i
 npm i gulp -g
 ```
-
-One line install:
+Start:
 ```sh
-git clone https://github.com/Luchanso/starter-kit.git && cd starter-kit && npm i && npm i gulp -g
+gulp
 ```
